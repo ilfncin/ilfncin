@@ -34,4 +34,4 @@ My work combines solid software engineering practices with modern data-driven an
 ---
 
 📍 Recife, Brazil  
-🔗 [LinkedIn](https://www.linkedin.com/in/ivan-fran%C3%A7a-6a6201319/)
+🔗 [LinkedIn](https://www.linkedin.com/in/ivanlfranca/)
