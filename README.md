@@ -1,6 +1,6 @@
 # Ivan França
 
-### Software Engineer | Python Backend, FastAPI & Automation
+### Python Backend Engineer | FastAPI | System Integration | AI Engineering | RAG Systems & Applied GenAI
 
 [![Website](https://img.shields.io/badge/Website-ivanfranca.com.br-222222?style=flat-square&logo=google-chrome&logoColor=white)](https://ivanfranca.com.br/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ivanlfranca-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivanlfranca/)
