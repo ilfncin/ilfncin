@@ -1,39 +1,113 @@
-### AI Engineering | RAG & LLM Systems
+# Ivan França
 
-🌐 **Website:** https://ivanfranca.com.br/
+### Software Engineer | Python Backend, FastAPI & Automation
 
-I'm a Software Engineer with a strong background in large-scale enterprise systems and automation, currently working with Python at TRT6.
+[![Website](https://img.shields.io/badge/Website-ivanfranca.com.br-222222?style=flat-square&logo=google-chrome&logoColor=white)](https://ivanfranca.com.br/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ivanlfranca-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivanlfranca/)
 
-I hold an MSc in Computer Science and a postgraduate degree in Data Science (CIn/UFPE). Over the past months, I have been focusing on **applied AI Engineering**, with emphasis on:
+I'm a software engineer from Brazil with more than ten years of
+experience in enterprise software, backend development, system
+integration, and automation.
 
-- Retrieval-Augmented Generation (RAG)
-- LLM-based applications
-- Agentic workflows
-- End-to-end AI and ML pipelines
+I currently work with **Python at TRT6**, developing automation solutions
+integrated with internal judicial systems and contributing to the
+modernization of legacy applications through **FastAPI-based services**.
 
-My work combines solid software engineering practices with modern data-driven and LLM-based architectures, focusing on reproducibility, modular design, and real-world applicability.
+My current technical focus is on building reliable Python backend
+applications using **FastAPI, asynchronous programming, PostgreSQL,
+SQLAlchemy, Docker, and automated testing**. I also have a strong
+background in Java enterprise applications, REST APIs and relational
+databases.
+
+Alongside backend development, I continue studying applied AI
+Engineering, especially RAG systems, LLM applications, evaluation, and
+observability.
 
 ---
 
-## 🔬 Featured Projects
+## Current Focus
 
-- **[rag-movie-plots](https://github.com/ilfncin/rag-movie-plots)**  
-  Proof-of-concept Retrieval-Augmented Generation pipeline built on the Wikipedia Movie Plots dataset, using LangChain, ChromaDB and OpenAI LLMs.
-
-- **[ai-engineering-lab](https://github.com/ilfncin/ai-engineering-lab)**  
-  A collection of practical notebooks exploring AI Engineering topics such as RAG and LLMs.
+- Python backend development with FastAPI
+- Workflow automation and system integration
+- Legacy application modernization
+- Asynchronous APIs and database access
+- PostgreSQL, SQLAlchemy, and Alembic
+- Automated testing with Pytest and Testcontainers
+- Docker-based development and continuous integration
+- Applied AI Engineering as a complementary specialization
 
 ---
 
-## 🛠️ Technical Interests
+## Featured Project
 
-- AI Engineering & RAG systems
-- LLM applications and evaluation
-- Machine Learning & Deep Learning
-- Data Engineering and automation
-- Reproducible research and clean ML pipelines
+### [Task Manager API](https://github.com/ilfncin/fastapi-task-manager)
+
+An asynchronous REST API for user authentication and personal task
+management.
+
+The project demonstrates a complete backend development workflow,
+including:
+
+- FastAPI and Pydantic
+- OAuth2 and JWT authentication
+- Asynchronous SQLAlchemy
+- PostgreSQL and Alembic migrations
+- User-scoped task management
+- Pytest and Testcontainers
+- Docker and Docker Compose
+- GitHub Actions continuous integration
+
+**Main stack:** Python, FastAPI, PostgreSQL, SQLAlchemy, Alembic, Pytest,
+Testcontainers, Docker, and GitHub Actions.
+
+---
+
+## Additional Projects
+
+### [RAG Movie Plots](https://github.com/ilfncin/rag-movie-plots)
+
+A proof-of-concept Retrieval-Augmented Generation pipeline built with
+the Wikipedia Movie Plots dataset, LangChain, ChromaDB, and OpenAI
+models.
+
+### [AI Engineering Lab](https://github.com/ilfncin/ai-engineering-lab)
+
+A collection of practical notebooks exploring AI Engineering, Machine
+Learning, Deep Learning, and Retrieval-Augmented Generation.
+
+---
+
+## Technical Background
+
+### Python Backend and Automation
+
+`Python` · `FastAPI` · `REST APIs` · `AsyncIO` · `SQLAlchemy` ·
+`PostgreSQL` · `Alembic` · `Pytest` · `Testcontainers`
+
+### Infrastructure and Engineering Practices
+
+`Docker` · `Docker Compose` · `GitHub Actions` · `Git` · `Linux` ·
+`CI/CD` · `Automated Testing`
+
+### Enterprise Development
+
+`Java` · `Java EE / Jakarta EE` · `Oracle` · `PostgreSQL` · `REST Integrations` ·
+`Legacy Modernization`
+
+### Applied AI and Optimization
+
+`RAG` · `LLM Applications` · `Embeddings` · `Vector Databases` ·
+`Evaluation`
+
+---
+
+## Education
+
+- MSc in Computer Science
+- Postgraduate degree in Data Science - CIn/UFPE
 
 ---
 
 📍 Recife, Brazil  
-🔗 [LinkedIn](https://www.linkedin.com/in/ivanlfranca/)
+🌐 [ivanfranca.com.br](https://ivanfranca.com.br/)  
+🔗 [linkedin.com/in/ivanlfranca](https://www.linkedin.com/in/ivanlfranca/)
