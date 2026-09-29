@@ -1,110 +1,97 @@
 # Ivan França
 
-### Python Backend Engineer | FastAPI | System Integration | AI Engineering | RAG Systems & Applied GenAI
+### Software Engineer | Backend Engineer | Python | FastAPI | Applied AI
 
 [![Website](https://img.shields.io/badge/Website-ivanfranca.com.br-222222?style=flat-square&logo=google-chrome&logoColor=white)](https://ivanfranca.com.br/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ivanlfranca-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivanlfranca/)
 
-I'm a software engineer from Brazil with more than ten years of
-experience in enterprise software, backend development, system
-integration, and automation.
+I build backend systems and automation that replace manual, error-prone workflows with reliable production software.
 
-I currently work with **Python at TRT6**, developing automation solutions
-integrated with internal judicial systems and contributing to the
-modernization of legacy applications through **FastAPI-based services**.
+I have **10+ years of experience in software engineering**, spanning software quality, enterprise Java backend development, REST APIs, system integration, and, more recently, **Python backend engineering and workflow automation**.
 
-My current technical focus is on building reliable Python backend
-applications using **FastAPI, asynchronous programming, PostgreSQL,
-SQLAlchemy, Docker, and automated testing**. I also have a strong
-background in Java enterprise applications, REST APIs and relational
-databases.
+In my current role, I independently design and develop production Python solutions integrated with a nationwide enterprise case-management platform and internal APIs. Recent automations have processed hundreds of cases, reduced average processing time by **95%+**, and saved an estimated **39 working days**.
 
-Alongside backend development, I continue studying applied AI
-Engineering, especially RAG systems, LLM applications, evaluation, and
-observability.
+I am now extending that backend and production-engineering foundation into **Applied AI**, with hands-on work in **Retrieval-Augmented Generation (RAG), LLM applications, embeddings, vector databases, semantic retrieval, evaluation, and observability**.
 
 ---
 
-## Current Focus
+## Selected Projects
 
-- Python backend development with FastAPI
-- Workflow automation and system integration
-- Legacy application modernization
-- Asynchronous APIs and database access
-- PostgreSQL, SQLAlchemy, and Alembic
-- Automated testing with Pytest and Testcontainers
-- Docker-based development and continuous integration
-- Applied AI Engineering as a complementary specialization
+### [RAG Movie Plots — Modular RAG System](https://github.com/ilfncin/rag-movie-plots)
 
----
+A modular Retrieval-Augmented Generation system built in Python to study how ingestion, chunking, retrieval, and generation decisions affect an end-to-end RAG pipeline.
 
-## Featured Project
+Highlights:
+
+- Separated offline ingestion and vector persistence from online semantic retrieval and LLM generation.
+- Analyzed **95,942 generated chunks** across multiple configurations to evaluate chunk size, separator hierarchy, and effective overlap behavior.
+- Reproduced cases where `RecursiveCharacterTextSplitter` separator choices can silently eliminate the expected chunk overlap.
+- Implemented OpenAI embeddings persisted in ChromaDB with configurable top-k retrieval and cosine-distance threshold filtering.
+- Added structured prompt construction, retrieved-context traceability, and application logging.
+- Documented architecture decisions, experiments, and findings through technical articles.
+
+**Stack:** Python · LangChain · OpenAI API · ChromaDB · Embeddings · Semantic Search · RAG
 
 ### [Task Manager API](https://github.com/ilfncin/fastapi-task-manager)
 
-An asynchronous REST API for user authentication and personal task
-management.
+An asynchronous REST API focused on production-oriented Python backend practices.
 
-The project demonstrates a complete backend development workflow,
-including:
+Highlights:
 
-- FastAPI and Pydantic
-- OAuth2 and JWT authentication
-- Asynchronous SQLAlchemy
-- PostgreSQL and Alembic migrations
-- User-scoped task management
-- Pytest and Testcontainers
-- Docker and Docker Compose
-- GitHub Actions continuous integration
+- FastAPI and Pydantic-based API design.
+- OAuth2 and JWT authentication.
+- Asynchronous SQLAlchemy with PostgreSQL.
+- Alembic database migrations.
+- User-scoped task management.
+- Automated testing with Pytest and Testcontainers.
+- Docker and Docker Compose development environment.
+- GitHub Actions CI pipeline.
 
-**Main stack:** Python, FastAPI, PostgreSQL, SQLAlchemy, Alembic, Pytest,
-Testcontainers, Docker, and GitHub Actions.
-
----
-
-## Additional Projects
-
-### [RAG Movie Plots](https://github.com/ilfncin/rag-movie-plots)
-
-A proof-of-concept Retrieval-Augmented Generation pipeline built with
-the Wikipedia Movie Plots dataset, LangChain, ChromaDB, and OpenAI
-models.
+**Stack:** Python · FastAPI · PostgreSQL · SQLAlchemy · Alembic · Pytest · Testcontainers · Docker · GitHub Actions
 
 ### [AI Engineering Lab](https://github.com/ilfncin/ai-engineering-lab)
 
-A collection of practical notebooks exploring AI Engineering, Machine
-Learning, Deep Learning, and Retrieval-Augmented Generation.
+A collection of hands-on experiments covering AI Engineering, Machine Learning, Deep Learning, Retrieval-Augmented Generation, and related techniques.
 
 ---
 
-## Technical Background
+## Technical Focus
 
-### Python Backend and Automation
+### Python Backend Engineering
 
-`Python` · `FastAPI` · `REST APIs` · `AsyncIO` · `SQLAlchemy` ·
-`PostgreSQL` · `Alembic` · `Pytest` · `Testcontainers`
+`Python` · `FastAPI` · `REST APIs` · `AsyncIO` · `SQLAlchemy` · `PostgreSQL` · `Alembic` · `Pytest` · `Testcontainers`
 
-### Infrastructure and Engineering Practices
+### Applied AI
 
-`Docker` · `Docker Compose` · `GitHub Actions` · `Git` · `Linux` ·
-`CI/CD` · `Automated Testing`
+`RAG` · `LLM Applications` · `LangChain` · `OpenAI API` · `Embeddings` · `Vector Databases` · `Semantic Search` · `Evaluation` · `Observability`
 
-### Enterprise Development
+### Integration & Platform
 
-`Java` · `Java EE / Jakarta EE` · `Oracle` · `PostgreSQL` · `REST Integrations` ·
-`Legacy Modernization`
+`System Integration` · `Workflow Automation` · `Docker` · `Docker Compose` · `Kubernetes` · `CI/CD` · `GitHub Actions` · `GitLab` · `Redis` · `Elasticsearch`
 
-### Applied AI and Optimization
+### Enterprise Engineering
 
-`RAG` · `LLM Applications` · `Embeddings` · `Vector Databases` ·
-`Evaluation`
+`Java` · `Java EE / Jakarta EE` · `REST Integrations` · `PostgreSQL` · `Angular` · `Legacy Modernization`
 
 ---
 
-## Education
+## Technical Writing
 
-- MSc in Computer Science
-- Postgraduate degree in Data Science - CIn/UFPE
+I write about Python backend engineering, FastAPI, asynchronous programming, RAG, LLM systems, and engineering decisions behind production-oriented software.
+
+- [Why `\n` Can Silently Break Chunk Overlap in RAG](https://ivanfranca.com.br/separator-n-silently-breaks-chunk-overlap-in-rag/)
+- [RAG Movie Plots: Designing a Modular RAG System](https://ivanfranca.com.br/rag-movie-plots-designing-a-modular-rag-system/)
+- [RAG Movie Plots: Narrative Structure Analysis](https://ivanfranca.com.br/rag-movie-plots-narrative-structure-analysis/)
+
+More at **[ivanfranca.com.br](https://ivanfranca.com.br/)**.
+
+---
+
+## Background
+
+- **MSc in Computer Science** — CIn/UFPE
+- **Postgraduate Specialization in Data Science** — CIn/UFPE
+- 10+ years building and supporting enterprise software, backend systems, integrations, and automation
 
 ---
 
